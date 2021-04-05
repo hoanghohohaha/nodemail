@@ -1,0 +1,213 @@
+[
+  {
+    "name": "Vũ Thị Xoan",
+    "email": "xoanvu1012@gmail.com",
+    "position": ["Business Analyst"],
+    "team": ""
+  },
+  {
+    "name": "Đặng Huyền Thanh",
+    "email": "huyenthanh2708@gmail.com",
+    "position": ["Wordpress Developer"],
+    "team": ""
+  },
+  {
+    "name": "Hà Quỳnh Trang",
+    "email": "quynhtrangtqg@gmail.com",
+    "position": ["Business Analyst", "Marketing - Insource"],
+    "team": "Projectube"
+  },
+  {
+    "name": "Phạm Hoàng Phúc",
+    "email": "bid111015@gmail.com",
+    "position": ["Wordpress Developer"],
+    "team": ""
+  },
+  {
+    "name": "Dương Hà Thu",
+    "email": "hakya1212@gmail.com",
+    "position": ["Marketing - Insource", "Marketing - Branding"],
+    "team": "Projectube"
+  },
+  {
+    "name": "Huỳnh Ngọc Phương Chi",
+    "email": "phuongchi.huynhcnn@gmail.com",
+    "position": ["Moderator"],
+    "team": ""
+  },
+  {
+    "name": "Võ Văn Tiền",
+    "email": "vvt255@gmail.com",
+    "position": ["Business Analyst"],
+    "team": ""
+  },
+  {
+    "name": "Bùi Thảo Nhi",
+    "email": "buithaonhi26@gmail.com",
+    "position": ["Talent Management Staff", "Sales - Insource"],
+    "team": "Projectube"
+  },
+  {
+    "name": "Nguyễn Thị Hoài Phụng",
+    "email": "ginnynguyen196@gmail.com",
+    "position": ["Frontend Developer"],
+    "team": "Projectube"
+  },
+  {
+    "name": "Hứa Mỹ Trân",
+    "email": "huatran144@gmail.com",
+    "position": ["Marketing - Insource"],
+    "team": "Web"
+  },
+  {
+    "name": "Nguyễn Phương Thanh",
+    "email": "Lana1991999@gmail.com",
+    "position": ["Marketing - Insource"],
+    "team": "Web"
+  },
+  {
+    "name": "Trần Thảo Vy",
+    "email": "tranthaovy1208@gmail.com",
+    "position": ["Talent Management Staff", "Talent Acquisition Staff"],
+    "team": ""
+  },
+  {
+    "name": "Thân Bích Ngân",
+    "email": "thanngan18@gmail.com",
+    "position": ["Talent Management Staff", "Talent Acquisition Staff"],
+    "team": ""
+  },
+  {
+    "name": "Hoàng Đỗ Minh Châu",
+    "email": "minhchau.hoangdo@gmail.com",
+    "position": ["Talent Acquisition Staff"],
+    "team": ""
+  },
+  {
+    "name": "Hoàng Lan Nhi",
+    "email": "nhihl.53p4@dhtm.edu.vn",
+    "position": ["Moderator"],
+    "team": ""
+  },
+  {
+    "name": "Đặng Trần Thu Liên",
+    "email": "liennbellyy2000@gmail.com",
+    "position": ["Researcher"],
+    "team": ""
+  },
+  {
+    "name": "Nguyễn Ngọc Yến",
+    "email": "ngocyen412004@gmail.com",
+    "position": ["Business Analyst"],
+    "team": ""
+  },
+  {
+    "name": "Phạm Thị Thục Hiền",
+    "email": "thuchien1710@gmail.com",
+    "position": ["Marketing - Insource", "Sales - Insource"],
+    "team": "Projectube"
+  },
+  {
+    "name": "Hồ Phước Duy",
+    "email": "hophuocduy261020@gmail.com",
+    "position": ["Frontend Developer"],
+    "team": "Web"
+  },
+  {
+    "name": "Huỳnh Thị Thu Thắm",
+    "email": "huynhthithutham1905027054@ftu.edu.vn",
+    "position": ["Marketing - Insource"],
+    "team": "Web"
+  },
+  {
+    "name": "Nguyễn Thị Thu",
+    "email": "nguyenthupr205@gmail.com",
+    "position": ["Sales - Insource", "Marketing - Branding"],
+    "team": "Projectube"
+  },
+  {
+    "name": "Nguyễn Xuân Nghĩa",
+    "email": "nghia.nx410@gmail.com",
+    "position": ["Sales - Insource"],
+    "team": "Projectube"
+  },
+  {
+    "name": "Trần Yến Linh",
+    "email": "yenlinhtran001@gmail.com",
+    "position": ["PM - Outsource", "Business Analyst", "Frontend Developer"],
+    "team": "Web"
+  },
+  {
+    "name": "Trần Diễm Quỳnh",
+    "email": "trandiemquynh2308@gmail.com",
+    "position": ["Marketing - Branding"],
+    "team": ""
+  },
+  {
+    "name": "Đinh Ngọc Duy",
+    "email": "catdere1234@gmail.com",
+    "position": ["Frontend Developer"],
+    "team": "Projectube"
+  },
+  {
+    "name": "Đặng Đình Trung Dũng",
+    "email": "Dangdinhtrungdung2004@gmail.com",
+    "position": ["Talent Management Staff"],
+    "team": ""
+  },
+  {
+    "name": "Nguyễn Quý Anh",
+    "email": "anhnguyenquy2407@gmail.com",
+    "position": ["Wordpress Developer"],
+    "team": ""
+  },
+  {
+    "name": "Phạm Minh Khuê",
+    "email": "minhkhuemahp@gmail.com",
+    "position": ["Graphic Designer"],
+    "team": ""
+  },
+  {
+    "name": "Dương Tuấn Đạt",
+    "email": "datoktober@gmail.com",
+    "position": ["Sales - Insource"],
+    "team": "Projectube"
+  },
+  {
+    "name": "Trần Đạt Phát",
+    "email": "trandatphatcv@gmail.com",
+    "position": ["Business Analyst"],
+    "team": ""
+  },
+  {
+    "name": "Đỗ Gia Huy",
+    "email": "dogiahuy.business@gmail.com",
+    "position": ["Frontend Developer"],
+    "team": "Web"
+  },
+  {
+    "name": "Nguyễn Hà Phương Anh",
+    "email": "donkeyphuonganh@gmail.com",
+    "position": ["Business Analyst"],
+    "team": ""
+  },
+  {
+    "name": "Giang Bui",
+    "email": "giang@vietcode.org",
+    "position": [
+      "Business Analyst",
+      "Frontend Developer",
+      "Graphic Designer",
+      "Marketing - Branding",
+      "Marketing - Insource",
+      "Moderator",
+      "PM - Outsource",
+      "Researcher",
+      "Sales - Insource",
+      "Talent Acquisition Staff",
+      "Talent Management Staff",
+      "Wordpress Developer"
+    ],
+    "team": "Projectube"
+  }
+]

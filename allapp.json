@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Hà Quỳnh Trang",
+    "email": "quynhtrangtqg@gmail.com",
+    "position": ["Marketing - Insource"],
+    "team": "Projectube"
+  },
+  {
+    "name": "Dương Hà Thu",
+    "email": "hakya1212@gmail.com",
+    "position": ["Marketing - Insource"],
+    "team": "Projectube"
+  },
+  {
+    "name": "Võ Văn Tiền",
+    "email": "vvt255@gmail.com",
+    "position": ["Business Analyst"],
+    "team": ""
+  },
+  {
+    "name": "Bùi Thảo Nhi",
+    "email": "buithaonhi26@gmail.com",
+    "position": ["Talent Management Staff", "Sales - Insource"],
+    "team": "Projectube"
+  },
+
+  {
+    "name": "Hứa Mỹ Trân",
+    "email": "huatran144@gmail.com",
+    "position": ["Marketing - Insource"],
+    "team": "Web"
+  },
+  {
+    "name": "Nguyễn Phương Thanh",
+    "email": "Lana1991999@gmail.com",
+    "position": ["Marketing - Insource"],
+    "team": "Web"
+  },
+
+  {
+    "name": "Nguyễn Thị Thu",
+    "email": "nguyenthupr205@gmail.com",
+    "position": ["Sales - Insource", "Marketing - Branding"],
+    "team": "Projectube"
+  },
+
+  {
+    "name": "Trần Yến Linh",
+    "email": "yenlinhtran001@gmail.com",
+    "position": ["Business Analyst"],
+    "team": "Web"
+  },
+
+  {
+    "name": "Đặng Đình Trung Dũng",
+    "email": "Dangdinhtrungdung2004@gmail.com",
+    "position": ["Talent Management Staff"],
+    "team": ""
+  }
+]
